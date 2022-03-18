@@ -5,6 +5,22 @@
 - 🌱 I’m currently learning **JavaScript, Html, Css, NodeJs, MongoDB at https://softuni.bg/**
 
 
+<!--START_SECTION:waka-->
+
+```text
+From: 10 March 2022 - To: 17 March 2022
+
+SCSS         15 hrs 6 mins   ██████████▓░░░░░░░░░░░░░░   42.37 %
+HTML         10 hrs 15 mins  ███████▒░░░░░░░░░░░░░░░░░   28.78 %
+TypeScript   5 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+CSS          3 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Text         1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+```
+
+<!--END_SECTION:waka-->
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/iliann.rusev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/iliann.rusev" height="30" width="40" /></a>
