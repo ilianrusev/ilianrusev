@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @ilianrusev</h1>
-<h2 align="center">A passionate <p color="yellow">trainee</p> developer from Bulgaria</h2>
+<h2 align="center">A passionate trainee developer from Bulgaria</h2>
 
 
 - 🌱 I’m currently learning **JavaScript, Html, Css, NodeJs, MongoDB**
