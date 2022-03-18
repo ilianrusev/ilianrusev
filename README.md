@@ -2,7 +2,7 @@
 <h2 align="center">A passionate trainee developer from Bulgaria</h2>
 
 
-- 🌱 I’m currently learning **JavaScript, Html, Css, NodeJs, MongoDB**
+- 🌱 I’m currently learning **JavaScript, Html, Css, NodeJs, MongoDB at https://softuni.bg/**
 
 
 <h3 align="left">Connect with me:</h3>
