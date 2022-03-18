@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **JavaScript, Html, Css, NodeJs, MongoDB**
 
-- 📫 How to reach me **https://www.facebook.com/ilianN.RuseV**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
