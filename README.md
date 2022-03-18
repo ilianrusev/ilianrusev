@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @ilianrusev</h1>
-<h2 align="center">A passionate <img src="https://cdn.w600.comps.canstockphoto.com/trainee-label-trainee-isolated-seal-eps-vector_csp84651284.jpg" alt="trainee" /> developer from Bulgaria</h2>
+<h2 align="center">A passionate developer from Bulgaria</h2>
 
 
 - 🌱 I’m currently learning **JavaScript, Html, Css, NodeJs, MongoDB**
