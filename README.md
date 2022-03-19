@@ -19,5 +19,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilianrusev&layout=compact" height="165px" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilianrusev&label=Profile%20views&color=blueviolet&style=flat" alt="ilianrusev" height="35px" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilianrusev&label=Profile%20views&color=blueviolet&style=flat" alt="ilianrusev" height="25px" /> </p>
 
