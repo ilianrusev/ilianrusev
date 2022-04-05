@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @ilianrusev</h1>
-<p align="center"><img height="250" width="600" src="https://media3.giphy.com/media/l4FGBILjNaCtLious/giphy.gif?cid=ecf05e47irchm2tnhutgqdc2ixufxoqzfk0dvmepu8s0uysb&rid=giphy.gif&ct=g" /></p>
+<p align="center"><img height="250" width="600" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47pod6h7beswsnpxye3jlk1ngbe70klthsg0w30myk&rid=giphy.gif&ct=g" /></p>
 <h2 align="center">A passionate trainee developer from Bulgaria</h2>
 
 
