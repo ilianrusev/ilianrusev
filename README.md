@@ -18,9 +18,8 @@
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ilianrusev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165px"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilianrusev&layout=compact&theme=dark" height="165px" />
+  
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilianrusev&label=Profile%20views&color=blueviolet&style=flat" alt="ilianrusev" height="25px" /> </p>
