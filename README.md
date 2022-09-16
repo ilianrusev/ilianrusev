@@ -3,7 +3,7 @@
 <h2 align="center">A passionate trainee developer from Bulgaria</h2>
 
 
-- 🌱 I’m currently learning **JavaScript, Html, Css, NodeJs, Express, MongoDB and ReactJS at https://softuni.bg/**
+- 🌱 I’m currently working at PokerStars as Frontend Developer Intern.
 
 
 <h3 align="left">Connect with me:</h3>
