@@ -25,7 +25,7 @@
   
 </p>
 
-
+<p align="left">Watch my contributions get eaten by a snake!!!</p>
 <p align="center"><img alt="github-snake" src="https://github.com/ilianrusev/ilianrusev/blob/output/github-contribution-grid-snake.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilianrusev&label=Profile%20views&color=blueviolet&style=flat" alt="ilianrusev" height="25px" /> </p>
