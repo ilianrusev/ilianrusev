@@ -25,5 +25,7 @@
   
 </p>
 
+<p align="center">![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilianrusev&label=Profile%20views&color=blueviolet&style=flat" alt="ilianrusev" height="25px" /> </p>
 
