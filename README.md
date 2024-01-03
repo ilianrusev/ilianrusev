@@ -3,7 +3,7 @@
 <h2 align="center">A passionate developer from Bulgaria</h2>
 
 
-- 🌱 I’m currently working at PokerStars as Frontend Developer Intern.
+- 🌱 I’m currently working at PokerStars as Frontend Developer.
 
 
 <h3 align="left">Connect with me:</h3>
